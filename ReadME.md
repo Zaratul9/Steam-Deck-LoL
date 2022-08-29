@@ -1,5 +1,7 @@
 # This guide is for installing League of Legends on the Steam Deck
 
+https://mega.nz/folder/k1pUjASA#zIoT6_AwOnoynwKVAjt7Mw
+
 Go to the discover store and install bottles
 ![Bottles in Discover Store](./ScreenShots/DiscoverBottles.png)
 
