@@ -1,15 +1,22 @@
 # This guide is for installing League of Legends on the Steam Deck
 
+
+1. Download this folder
 https://mega.nz/folder/k1pUjASA#zIoT6_AwOnoynwKVAjt7Mw
 
-Go to the discover store and install bottles
-![Bottles in Discover Store](./ScreenShots/DiscoverBottles.png)
+2. Run install.sh script from the downloaded folder
+![]
 
-Load bottles from Utilities/Bottles
+3. After using the install.sh script load bottles from Utilities/Bottles
 ![Steam Menu bottles shortcut](./ScreenShots/FoundInUtilitiesBottles.png)
 
-Add Bottle with gaming selection and name it exactly LoL (2 capital L's, 1 lowercase 0, and no spaces)
-![Add a bottle called LoL](./ScreenShots/AddBottleLoL.png)
+4. Go into the bottle labeled LoL
+5. Use the Run Executable button and select the install_League_of_Legends_na.exe from the folder you downloaded
+![]
+
+6. Allow LoL to install when it launches.
+![]
+
 
 
 
